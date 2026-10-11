@@ -1,0 +1,1 @@
+it contains an html file ,css ,javascript and a few images.this repo was made for my web os ,my first html project as a beginner trying to get out of the beginnner level and into the front lines.thank you
